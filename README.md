@@ -73,4 +73,4 @@ This project is an interactive Retail Sales Dashboard developed using Microsoft 
 
 ## 🎯 Outcome
 
-Designed an interactive Power BI dashboard to analyze retail sales performance using KPIs, charts, maps, and slicers, enabling faster business insights and decision-making.
+Designed an interactive Power BI dashboard to analyze retail sales performance using KPIs, charts, maps, and interactive filters, enabling faster business insights and decision-making.
